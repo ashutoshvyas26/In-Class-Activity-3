@@ -19,7 +19,7 @@ Program: Computer System Technician Software Support 558
 - Project Planning
 - Soft Dev Tools and Practices
 
-https://www.mohawkcollege.ca/sites/default/files/Home%20Page/home-admissions-800x500.jpg
+![Mohawk College](https://www.mohawkcollege.ca/sites/default/files/Home%20Page/home-admissions-800x500.jpg)
 
-Visit https://www.mohawkcollege.ca/ to learn more!!
+Visit [Mohawk College](https://www.mohawkcollege.ca) to learn more!!
 
